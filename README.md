@@ -4,8 +4,7 @@ This repository contains data science projects focusing on various topics, inclu
 
 ## Projects
 
-- **Pandas**: This project explores the powerful Pandas library for data manipulation and analysis. To get started, navigate to the [Pandas project folder](/pandas) and refer to the instructions provided in the [instructions folder](Data-Science-Projects/Pandas
-/Instructions/).
+- **Pandas**: This project explores the powerful Pandas library for data manipulation and analysis. To get started, navigate to the [Pandas project folder](/pandas) and refer to the instructions provided in the [instructions folder](Data-Science-Projects/Pandas/Instructions/).
 
 - **Linear Regression**: In this project, you will delve into linear regression, a fundamental statistical method for modeling the relationship between variables. To begin, access the [Linear Regression project folder](/linear_regression) and review the instructions available in the [instructions folder](/linear_regression/instructions).
 
